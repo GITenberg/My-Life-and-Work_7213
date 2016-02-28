@@ -1,0 +1,43 @@
+_repo: My-Life-and-Work_7213
+creator:
+  author:
+    agent_name: Ford, Henry
+    birthdate: 1863
+    deathdate: 1947
+    gutenberg_agent_id: '1100'
+    url: http://www.gutenberg.org/2009/agents/1100
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Ford
+description: One world's richest and best-known people in his day, Henry Ford was
+  the founder of Ford Motor Company and a pioneering innovator of mass production.
+  Ford's autobiography, My Life and Work, gives personal insight into the life of
+  this prolific inventor and titan of industry. For the time, Ford awarded high wages
+  to his workers despite his driving commitment towards reducing costs, which he did
+  instead through the channels of business and technological innovation. Ford's vision
+  held consumerism as a cornerstone of global peace and prosperity. In spite of not
+  believing in accountants, Ford amassed an enormous wealth, most of which he left
+  to the Ford Foundation.
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Businesspeople -- United States -- Biography'
+- !lcsh 'Ford, Henry, 1863-1947'
+- !lcsh 'Automobiles -- History'
+- !lcsh 'Automobile industry and trade -- United States -- History'
+- !lcc 'HD'
+- !lcsh 'Ford Motor Company -- History'
+- !lcsh 'Industrialists -- United States -- Biography'
+tableOfContents: 'Introduction: What is the idea? -- The beginning of business --
+  What I learned about business -- Starting the real business -- The secret of manufacturing
+  and serving -- Getting into production -- Machines and men -- The terror of the
+  machine -- Wages -- Why not always have good business? -- How cheaply can things
+  be made? -- Money and goods -- Money: master or servant? -- Why be poor? -- The
+  tractor and power farming -- Why charity? -- The railroads -- Things in general
+  -- Democracy and industry -- What we may expect.'
+title: My Life and Work
+url: http://www.gutenberg.org/ebooks/7213
