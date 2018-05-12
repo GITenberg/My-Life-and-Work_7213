@@ -1,4 +1,8 @@
 _repo: My-Life-and-Work_7213
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ford, Henry
@@ -16,6 +20,8 @@ description: One world's richest and best-known people in his day, Henry Ford wa
   held consumerism as a cornerstone of global peace and prosperity. In spite of not
   believing in accountants, Ford amassed an enormous wealth, most of which he left
   to the Ford Foundation.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7213#My-Life-and-Work
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
